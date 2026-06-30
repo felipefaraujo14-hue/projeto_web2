@@ -4,4 +4,37 @@ seletor {
     propriedade: valor;
 }
 */
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: rgb(35, 90, 90);
+}
 
+p{
+    font-family: helvetica;
+    text-align: justify;
+    line-height: 35px;
+    color: chartreuse;
+}
+
+#Paragrafo01 {
+    margin-left: 250px;
+    text-transform: uppercase;
+}
+
+#Paragrafo02 {
+    margin-right: 300px;
+    background-color: aqua;
+
+}
+
+.Paragrafos {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.3em;
+    line-height: 80px;
+}
+
+.Parag_especial {
+    text-decoration: line-through;
+}
